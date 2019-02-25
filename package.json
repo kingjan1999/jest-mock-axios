@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/knee-cola/jest-mock-axios.git"
+    "url": "git+https://github.com/kingjan1999/jest-mock-axios.git"
   },
   "keywords": [
     "axios",
